@@ -1,2 +1,0 @@
-- name: figshare upload action
-  uses: figshare/github-upload-action@v1.1
